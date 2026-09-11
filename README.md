@@ -27,4 +27,3 @@ This repository contains my latest resume and professional profile.
 - [LinkedIn](https://www.linkedin.com/in/shiv-kumar9925)
 - [GitHub](https://github.com/Shiv9818)
 - [LeetCode](https://leetcode.com/u/Shivkumar2005/)
-- [Credly]([https://www.credly.com/users/shiv-kumar.2f1fce8](https://www.credly.com/users/shiv-kumar.2f1fce8e/edit/badges/credly))
